@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  margin-top: 100px;
+}
+/* fondo de todas los componentes a exepcion del footer y el header */
+.fondo {
+  margin: 100px 40px;
+  padding: 4px;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+  background: white;
+}
+/* estilos del carrusel */
+.carousel {
+  width: 100%;
+  max-width: 95%;
+  margin: 0 auto;
+}
+
+/* estilo del parrafo */
+.descripcionL {
+  margin: 5%;
+  font-size: 120%;
+  text-align: justify;
+}
