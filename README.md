@@ -7,17 +7,17 @@ Esta desarollada en React, y usa tambien HTML, CSS y JS.
 
 En esta pagina podes encontrar:
 
-4 paginas con header y footer
+4 paginas con header y footer,
 
-Un carrucel
+Un carrucel,
 
-Links a enlaces externos, como redes sociales
+Links a enlaces externos, como redes sociales,
 
-Un formulario para logearse
+Un formulario para logearse,
 
-Un formulario para mandar un mail al comercio
+Un formulario para mandar un mail al comercio,
 
-Una api de deportes
+Una api de deportes.
 
 
 Tambien es responsive a diferentes tamaños de pantallas
